@@ -1,0 +1,133 @@
+body{
+  background-color: #e0ece4;
+  color: #40514e;
+  text-align: center;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #e0ece4;
+  font-size: 5.625rem;
+
+}
+#title{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.105rem;
+  color: #e0ece4;
+}
+
+h2{
+  color:  #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.profile{
+  width: 40%;
+  margin: 0 auto;
+}
+
+.top_container{
+  background-color: #66bfbf;
+  color: black;
+  position: relative;
+  padding-top: 150px;
+
+}
+.middle_container{
+  margin: 100px 0;
+}
+.coypright{
+  margin:50px auto;
+}
+a:hover{
+  color: black;
+  text-decoration: underline;
+}
+.footer-link{
+  margin: 30px 40px auto;
+  text-decoration: none;
+}
+.cloud_right{
+  float: right ;
+  position: absolute;
+  top: 0;
+  right: 300px;
+}
+.yuvrajphoto:hover{
+  background-color: #a3d2ca;
+}
+.cloud_left{
+  float: left;
+  position: absolute;
+  left:300px;
+}
+.skill-row{
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.wotick{
+float: right;
+width: 25%;
+margin-right: 30px;
+}
+.mark{
+  width: 25%;
+  float: left;
+}
+
+  .wotick_text{
+    clear: left;
+  }
+.contact-me{
+  width: 40%;
+  margin: 40px auto 50px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+h3{
+  font-family: 'Merriweather', serif;
+  color:  #66bfbf;
+}
+p{
+  font-family: 'Montaga', serif;
+}
+hr{
+  border-style: dotted none none;
+  width: 10%;
+  border-color: grey;
+  border-width: 8px;
+  margin:100px auto;
+}
+a{
+  color:  #66bfbf;
+}
+span{
+  text-decoration: underline;
+}
